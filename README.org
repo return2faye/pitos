@@ -1,0 +1,7 @@
+#+title: pitos
+
+* Acknowledgments
+
+This project is based on octox, originally created by Hayato Ohhashi. We are grateful for his excellent work on this Unix-like operating system implemented in pure Rust.
+
+octox is inspired by [[https://github.com/mit-pdos/xv6-riscv][xv6-riscv]].

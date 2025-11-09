@@ -1,0 +1,13 @@
+[package]
+name = "mkfs"
+description = "mkfs octox file system"
+version.workspace = true
+edition = "2021"
+license.workspace = true
+
+[[bin]]
+name = "mkfs"
+path = "main.rs"
+
+[dependencies]
+libkernel = { workspace = true }
